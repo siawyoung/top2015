@@ -7,7 +7,7 @@ cover = "purple"
 +++
 
 {{% side_info %}}
-{{< spotify "spotify:album:1bbFYH3F3aDP3uvXwZVIpt" >}}
+{{< spotify "spotify:album:7bzSRJuSLfCTWRzrOni6X7" >}}
 {{% /side_info %}}
 
 Rock/Metal (Stoner, Psychedelic)

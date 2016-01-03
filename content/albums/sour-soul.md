@@ -18,8 +18,6 @@ To be honest, despite the massive difference in street cred between BBNG and Gho
 
 Almost all of the guest artists invited to drop a verse (Danny Brown on Six Degrees, Tree on Street Knowledge, Doom on Ray Gun) all end up doing a better job than Ghostface Killah does. Okay maybe I just have a thing against his style - don't you think it's a bit too "vulgar" for BBNG's refined sound? Seriously, listen to Tone's Rap and see what I mean. I don't mean vulgar as in explicit, but I find the way he raps just comes across as too "try-hard". It feels like he's still stuck in 1993, except RZA's not around. If only it had been Kendrick Lamar or Vince Staples, or even Earl Sweatshirt...
 
-Despite all that, it still gets a S Class from me, because BBNG.
-
 Case in point: [Sour Soul Instrumental](https://www.youtube.com/watch?v=RW3li2XWgoM) (I wish I could put this on the list instead)
 
 #### Favourite tracks
