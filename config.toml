@@ -1,9 +1,13 @@
 baseurl = "http://top2015.siawyoung.com"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "Best Music of 2015"
 theme = "cathode"
 preserveTaxonomyNames = true
 [taxonomies]
 type = "types"
 
 [params]
+jumbotronTitle = "Best of 2015"
+jumbotronSubtitle1 = "A list of all my favourite music to come out this year 🎉"
+jumbotronAuthor = "@siawyoung"
+jumbotronAuthorLink = "http://siawyoung.com"
