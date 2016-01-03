@@ -7,7 +7,7 @@ types = "album"
 +++
 
 {{% side_info %}}
-<iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=1532139111/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="http://timbre.bandcamp.com/album/sun-moon">Sun &amp; Moon by Timbre</a></iframe>
+<iframe style="border: 0; width: 350px; height: 470px;" src=about:blank data-src="https://bandcamp.com/EmbeddedPlayer/album=1532139111/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless onload="lzld(this)"><a href="http://timbre.bandcamp.com/album/sun-moon">Sun &amp; Moon by Timbre</a></iframe>
 {{% /side_info %}}
 
 Orchestral, Choral, Pop (Chamber)
