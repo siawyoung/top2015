@@ -1,7 +1,7 @@
 +++
 artist = "Timbre"
 cover = "sun-and-moon"
-date = "2015-12-31T14:59:19+08:00"
+date = "2015-12-28T02:00:03+08:00"
 title = "Sun & Moon"
 types = "album"
 +++
