@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Singles on My New Hugo Site</title>
+    <link>http://replace-this-with-your-hugo-site.com/singles/</link>
+    <description>Recent content in Singles on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 31 Dec 2015 12:56:03 +0800</lastBuildDate>
+    <atom:link href="http://replace-this-with-your-hugo-site.com/singles/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>You Cannot Call For Love Like a Dog</title>
+      <link>http://replace-this-with-your-hugo-site.com/singles/you-cant-call-for-love-like-a-dog/</link>
+      <pubDate>Thu, 31 Dec 2015 12:56:03 +0800</pubDate>
+      
+      <guid>http://replace-this-with-your-hugo-site.com/singles/you-cant-call-for-love-like-a-dog/</guid>
+      <description>&lt;div class=&#34;side-info&#34;&gt;
+  &lt;iframe src=about:blank data-src=&#34;https://embed.spotify.com/?uri=spotify%3atrack%3a5WhvpSqCvSd8AFizRlnUCE&#34; height=&#34;400&#34; frameborder=&#34;0&#34; allowtransparency=&#34;true&#34; onload=lzld(this)&gt;&lt;/iframe&gt;
+
+&lt;/div&gt;
+
+&lt;p&gt;Rock&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Okay</title>
+      <link>http://replace-this-with-your-hugo-site.com/singles/okay/</link>
+      <pubDate>Wed, 30 Dec 2015 20:12:04 +0800</pubDate>
+      
+      <guid>http://replace-this-with-your-hugo-site.com/singles/okay/</guid>
+      <description>&lt;div class=&#34;side-info&#34;&gt;
+  &lt;iframe src=about:blank data-src=&#34;https://embed.spotify.com/?uri=spotify%3atrack%3a5FnPEGtXVOldA5VCU0KUkD&#34; height=&#34;400&#34; frameborder=&#34;0&#34; allowtransparency=&#34;true&#34; onload=lzld(this)&gt;&lt;/iframe&gt;
+
+&lt;/div&gt;
+
+&lt;p&gt;House&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Seve</title>
+      <link>http://replace-this-with-your-hugo-site.com/singles/seve/</link>
+      <pubDate>Wed, 30 Dec 2015 19:50:12 +0800</pubDate>
+      
+      <guid>http://replace-this-with-your-hugo-site.com/singles/seve/</guid>
+      <description>&lt;div class=&#34;side-info&#34;&gt;
+  &lt;iframe src=about:blank data-src=&#34;https://embed.spotify.com/?uri=spotify%3atrack%3a6UqRGwjwYL0stXbaodTxwo&#34; height=&#34;400&#34; frameborder=&#34;0&#34; allowtransparency=&#34;true&#34; onload=lzld(this)&gt;&lt;/iframe&gt;
+
+&lt;/div&gt;
+
+&lt;p&gt;House (Tropical)&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
