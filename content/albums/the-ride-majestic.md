@@ -17,4 +17,4 @@ It's Soilwork's tenth full-length album and they show absolutely no signs of slo
 If you enjoy this, fellow veteran metallers Paradise Lost's album The Plague Within, also released this year, is worth checking out too.
 
 #### Favourite tracks
-The Ride Majestic, Enemies in Fidelity, All Along Echoing Paths, Shining Lights, Father and Son, Watching the World Go Down
+The Ride Majestic, Death In General, Enemies in Fidelity, All Along Echoing Paths, Shining Lights, Father and Son, Watching the World Go Down
